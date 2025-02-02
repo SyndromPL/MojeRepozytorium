@@ -1,0 +1,1 @@
+print("To jest nowy plik w nowej galezi!")
